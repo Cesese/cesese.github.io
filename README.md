@@ -3,7 +3,7 @@
 
 ---
 
-## Contact me
+### Contact me
 
 <!-- [![discord](resources/discord.png)]() -->
 [![speedrun.com](resources/speedrun.png)](https://www.speedrun.com/user/Cesese)
