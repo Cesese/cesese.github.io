@@ -10,6 +10,10 @@ h2 { /* Headings */
 	font-style: italic;
 }
 
+h3 { /* Small headings */
+	font-size: 12pt;
+}
+
 p { /* Paragraphs */
 	
 }
