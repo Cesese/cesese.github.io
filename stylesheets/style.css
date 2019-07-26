@@ -1,0 +1,19 @@
+body { /* General */
+	
+}
+
+h1 { /* Page Title */
+	text-align: center;
+}
+
+h2 { /* Headings */
+	font-style: italic;
+}
+
+p { /* Paragraphs */
+	
+}
+
+img {
+	height:16px;
+}
