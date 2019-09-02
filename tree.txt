@@ -1,0 +1,47 @@
+.
+├── [Chihiro]_K-ON!_-_01_[1280x720_Blu-Ray_FLAC][322A592D].mkv
+├── [Chihiro]_K-On!!_-_01_[848x480_H.264_AAC][DB8C00A0].mkv
+├── download-kon.txt
+├── free.vod
+├── [HorribleSubs] Flip Flappers - 01[480p].mkv
+├── [HorribleSubs] Flip Flappers - 02[480p].mkv
+├── [HorribleSubs] Flip Flappers - 03[480p].mkv
+├── [HorribleSubs] Flip Flappers - 04[480p].mkv
+├── [HorribleSubs] Flip Flappers - 05[480p].mkv
+├── [HorribleSubs] Flip Flappers - 06[480p].mkv
+├── [HorribleSubs] Flip Flappers - 07[480p].mkv
+├── [HorribleSubs] Flip Flappers - 08[480p].mkv
+├── [HorribleSubs] Flip Flappers - 09[480p].mkv
+├── [HorribleSubs] Flip Flappers - 10[480p].mkv
+├── [HorribleSubs] Flip Flappers - 11[480p].mkv
+├── [HorribleSubs] Flip Flappers - 12[480p].mkv
+├── [HorribleSubs] Flip Flappers - 13[480p].mkv
+├── [HorribleSubs] Free! - 01[480p].mkv
+├── [HorribleSubs] Free! - 02[480p].mkv
+├── [HorribleSubs] Free! - 03[480p].mkv
+├── [HorribleSubs] Free! - 04[480p].mkv
+├── [HorribleSubs] Free! - 05[480p].mkv
+├── [HorribleSubs] Free! - 06[480p].mkv
+├── [HorribleSubs] Free! - 07[480p].mkv
+├── [HorribleSubs] Free! - 08[480p].mkv
+├── [HorribleSubs] Free! - 09[480p].mkv
+├── [HorribleSubs] Free! - 10[480p].mkv
+├── [HorribleSubs] Free! - 11[480p].mkv
+├── [HorribleSubs] Free! - 12[480p].mkv
+├── playlist
+│   ├── Flip_Flappers-01 -> /home/alex/Videos/xdcc/[HorribleSubs] Flip Flappers - 01[480p].mkv
+│   ├── Flip_Flappers-02 -> /home/alex/Videos/xdcc/[HorribleSubs] Flip Flappers - 02[480p].mkv
+│   ├── Flip_Flappers-03 -> /home/alex/Videos/xdcc/[HorribleSubs] Flip Flappers - 03[480p].mkv
+│   ├── Flip_Flappers-04 -> /home/alex/Videos/xdcc/[HorribleSubs] Flip Flappers - 04[480p].mkv
+│   ├── Flip_Flappers-05 -> /home/alex/Videos/xdcc/[HorribleSubs] Flip Flappers - 05[480p].mkv
+│   ├── Flip_Flappers-06 -> /home/alex/Videos/xdcc/[HorribleSubs] Flip Flappers - 06[480p].mkv
+│   ├── Flip_Flappers-07 -> /home/alex/Videos/xdcc/[HorribleSubs] Flip Flappers - 07[480p].mkv
+│   ├── Flip_Flappers-08 -> /home/alex/Videos/xdcc/[HorribleSubs] Flip Flappers - 08[480p].mkv
+│   ├── Flip_Flappers-09 -> /home/alex/Videos/xdcc/[HorribleSubs] Flip Flappers - 09[480p].mkv
+│   ├── Flip_Flappers-10 -> /home/alex/Videos/xdcc/[HorribleSubs] Flip Flappers - 10[480p].mkv
+│   ├── Flip_Flappers-11 -> /home/alex/Videos/xdcc/[HorribleSubs] Flip Flappers - 11[480p].mkv
+│   ├── Flip_Flappers-12 -> /home/alex/Videos/xdcc/[HorribleSubs] Flip Flappers - 12[480p].mkv
+│   └── Flip_Flappers-13 -> /home/alex/Videos/xdcc/[HorribleSubs] Flip Flappers - 13[480p].mkv
+└── tree.txt
+
+1 directory, 43 files
