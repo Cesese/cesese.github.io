@@ -1,6 +1,8 @@
 % Cesese's page
-[The Lion King (snes) speedrun tutorial](TLK-Tuto/en/) ( [français](TLK-Tuto/fr/) )
 
+- [The Lion King (snes) speedrun tutorial](TLK-Tuto/en/)
+( [français](TLK-Tuto/fr/) )
+- [Speedrun notes in general](speedrun)
 ---
 
 ### Contact me
