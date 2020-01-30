@@ -3,6 +3,7 @@
 - [Speedrun notes in general](speedrun)
 - [My scripts](scripts)
 - [My programs](programs)
+- [My github](https://github.com/cesese)
 
 ---
 
