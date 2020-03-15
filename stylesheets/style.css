@@ -21,3 +21,29 @@ p { /* Paragraphs */
 img {
 	height:16px;
 }
+
+/* Tables */
+th, td {
+	border: 1px solid #000;
+	padding: 5px;
+}
+tr{
+	background-color: rgba(255,255,255,0.7);
+}
+/*tr:hover, */th {
+	color: #FFF;
+	background-color: #232323;
+}
+/*
+tr:hover, th, h1, h2, h3{
+	text-shadow: 0 0 5px #FFF, 0 0 10px #FFF, 0 0 15px #FFF, 0 0 20px #15B2D3, 0 0 30px #15B2D3, 0 0 40px #15B2D3, 0 0 55px #15B2D3, 0 0 75px #15B2D3 /* neon green : #49FF18
+}
+*/
+
+table {
+	border-spacing: 0px;
+	cursor: auto;
+}
+table, col {
+	width: auto;
+}
