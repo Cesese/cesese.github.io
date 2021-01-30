@@ -123,15 +123,32 @@ On court vers la droite, et on saute juste avant le bord. Puis après un petit t
 Tricks impliqués :
 
 *   Skip du niveau
-*   Safe strat pour débutant <!-- A faire : franciser ce titre et son paragraphe -->
+*   Skip des geysers
+*   Plan B pour débutant
 
 #### Comment skip le niveau complètement : ( [video](https://www.youtube.com/watch?v=XKb7qgY8T5o) )
 Au début du niveau, on amène le premier guépard à gauche contre le mur. Ensuite, on le tue avec une attaque simple (Y) et juste après on lui fait une prise (gauche + X). C'est très simple à faire. Enfin on arrive à la fin du niveau, il suffit d'attendre que le rocher tombe pour finir.
 
-#### Safe strat :
+#### Comment sauver des cycles de geysers : ( [video d'explication en anglais](https://www.youtube.com/watch?v=7F-GyDBkmeU) )
+Quand on traverse le sol, on fonce à droite, on atterit sur la plateforme, et on attend environ 0,7 secondes (exactement 41 frames à 60.1fps d'après la vidéo).
+Puis, aller à fond à gauche. (aller plus ou moins vite ne sauve pas de temps, mais si on est trop lent le glitch ne fonctionnera pas)
+
+En fonction de la RNG[^8], on peut zapper jusqu'à 2 cycles de geysers. Sur l'écran, le geyser de droite s'activera en premier, puis le prochain geyser sera aléatoire:
+
+* si celui de gauche est second, on sauve 2 cycles
+* si c'est celui au centre-gauche, on sauve 1 cycle
+* si c'est celui au centre-droite ou celui de droite, on ne sauve pas de cycle
+
+La raison est que les geysers vont toujours de droite à gauche.
+Donc, au total, on a 25% de chances de sauver 2 cycles, 25% de chances de sauver 1 cycle, et 50% de chances de ne sauver aucun cycle.
+
+#### Plan B :
 Au moment où on commence à tomber (juste après la prise), on fonce vers la droite. On atterrit alors sur la plateforme juste avant l'écran final du niveau, qui par chance contient un checkpoint.
-Attention cependant, vous perdrez quelques secondes en faisant cette strat. Elle est néanmoins utile pour les races et les débutants qui ont du mal à faire le skip.
+Attention cependant, vous perdrez quelques secondes en faisant cette stratégie. Elle est néanmoins utile pour les races[^9] et les débutants qui ont du mal à faire le skip.
 ( trivia : on peut aussi remonter sur cette plateforme en faisant un saut + une attaque ( comme sur [le saut juste avant scar](#scarjump) ) )
+
+`/!\` quand on est sur cette plateforme, le compte à rebours pour la fin du niveau ne fonctionne pas. Du coup, ce plan B fait perdre un peu de temps (donc il est utile par exemple pour des races).
+Aussi, je n'ai pas vérifié si ce plan B permet de sauver des cycles. Je recommande d'attendre encore 0,7s, après checkpoint, quand il n'y a qu'1 cratère chargé.
 
 ## Simba’s Return
 
@@ -180,3 +197,6 @@ Ce tutoriel a été fait par Cesese, en utilisant des vidéos de Cesese et Akite
 [^5]: "Clips" : Quand on coupe à travers le niveau (sol, mur, &c.)
 [^6]: "Damage boost" : Quand on prend des dégats de façon intentionnelle pour gagner du temps.
 [^7]: "Trigger" : Zone dans le jeu qui exécute un événement lorsqu'elle est chargée.
+[^8]: "RNG" : "Random Number Generation", Génération de Nombre Aléatoire en français, c'est la partie de la console qui génère l'aléatoire. Sur ce jeu, on ne peut pas la maîtriser à la manette, donc on considère que c'est purement aléatoire. Mais dans d'autres jeux, on peut la maîtriser, par exemple dans Zelda 1. Dans le jargon du speedrun, on dit plutôt RNG que aléatoire, mais la nuance est fine.
+[^9]: "Race" : Course de speedrun en temps réel entre plusieurs joueurs.
+

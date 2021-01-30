@@ -117,16 +117,31 @@ Run towards the right, and jump right before the edge. Then after an amount of t
 Tricks involved :
 
 *   Skipping the level
+*   Skipping geyser cycles
 *   Safe strat for beginners
 
 #### How to basically skip the level : ( [video](https://www.youtube.com/watch?v=XKb7qgY8T5o) )
 At the beginning of the level, get the first cheetah against the left wall. Then, kill it with a simple slash (Y) and right after grab it (left + X). It's very easy to do. Then you will end up at the end of the level, just wait for the end to show itself and finish the stage.
+
+#### How to skip geyser cycles : ( [explanation video](https://www.youtube.com/watch?v=7F-GyDBkmeU) )
+When you clip through the floor, go right to land on the platform, and wait around 0.7s (exactly 41 frames at 60.1fps according to the video).
+Then go full speed to the left. (going faster doesn't save time, but being too slow would prevent you from skipping cycles)
+
+Depending on RNG, you can skip at most 2 geysers. For visual cue, the rightmost geyser will be the first to occur, and then you'll see the next geyser be random :
+
+* if the leftmost geyser is second, you're skipping 2 geysers
+* if it's the center-left geyser, you're skipping 1 geyser
+* if it's either center-right or rightmost, you're not skipping any geyser
+
+This is because the geysers always go from right to left.
+So, in total, you have a 25% chance of skipping 2 geysers, 25% chance of skipping 1 geyser, and 50% chance of skipping nothing.
 
 #### Safe strat :
 I've seen people die after doing the skip, and it can be quite frustrating when you don't master it so here's a safe strat : Right after you grab the cheetah, go to the right. You will land on the platform right before the final "screen", and there's a checkpoint there.
 ( It is also possible to get back there after landing down, but then it's a bit harder : you have to jump and slash at the right time ( the same timing as [the jump in Pride Rock](#scarjump) ) to the right from the rock on the right while avoiding the falling stuff )
 
 `/!\` when you're on that platform, the countdown to the end of the level is not working. So this safe strat makes you lose a bit of time (might be good for races though for instance).
+Also, I didn't check if it would work for skipping cycles. You might want to wait 0.7s again - after checkpoint - when only the rightmost crater is visible.
 
 ## Simba’s Return
 
