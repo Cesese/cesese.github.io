@@ -69,8 +69,13 @@ Tricks involved :
 #### How to do the first clip : ( [video](https://www.youtube.com/watch?v=u8V1Fqj0Yug) )
 Run towards the wall and jump with just enough pressure. If you are too close to the wall, if you aren’t running, or if you don’t jump with the right pressure, you won’t clip.
 
-#### How to do the second clip : ( [video](https://www.youtube.com/watch?v=YCNTK1fvesQ) )
-Run towards the right and tap jump (my cue is around the bush). Keep right pressed at least until you clip (you shouldn’t even stop pressing right since you will land on a platform and jump immediately).
+#### How to do the second clip : ( [video](https://www.youtube.com/watch?v=YCNTK1fvesQ) / [setup video](https://www.youtube.com/watch?v=AK5wMSLYkYA) )
+Run towards the right and tap jump for 1 frame (my cue is around the bush).
+Keep right pressed at least until you clip (you shouldn’t even stop pressing right since you will land on a platform and jump immediately).
+Tapping for 1 frame is hard, you can also make a full jump, but it won't be at the exact same place as the 1 frame jump.
+
+If you look at the setup video, you'll get a consistent setup (but this is advanced and will require a lot of practice). For the 1 frame jump it's useful but not very important, but for the full jump it's very important because without a setup you have a 25% chance of not being able to clip (the reason is given in the video)
+
 
 You don’t need to be damaged to clip, but first clip needs damage because of where you land, and second clip requires damage too because killing the hedgehogs is long.
 
